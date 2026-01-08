@@ -1,5 +1,5 @@
 # 🏠 BrickWorth+
-## Intelligent Real Estate Price Prediction & Accommodation Platform
+## Intelligent house, PG and Flat Price Prediction and Management System
 
 BrickWorth+ is a **full-stack Django-based web application** that provides **machine learning–powered real estate price predictions** along with a **verified accommodation discovery system** for houses, PGs, and flats. The platform combines **backend engineering, supervised ML models, and modern UI design** to support informed Buy/Rent decisions.
 
